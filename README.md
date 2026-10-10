@@ -33,7 +33,7 @@ I'm continuously expanding my knowledge in **backend systems**, **cloud technolo
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/furkan-çulha)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:furkanculha07@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:furkanculhaoffical@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white)](https://instagram.com/FurkanCulha07)
 
 ---
@@ -99,12 +99,12 @@ Technologies I use to design, build, and deploy modern applications.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FurkanCulha7&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanCulha7&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Furkan-culha&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkan-culha&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FurkanCulha7&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Furkan-culha&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
